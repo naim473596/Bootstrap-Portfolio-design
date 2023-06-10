@@ -1,0 +1,44 @@
+body{
+    margin: -2px;
+    padding-block: 0px;
+}
+*{
+    margin: 0px;
+    padding-block: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.nav-link{
+    font-size: 20px;
+    margin: 0px 10px;
+    font-weight: bold;
+}
+.nav-link:hover{
+    background-color: aquamarine;
+    border-radius: 20px;
+    color: black;
+}
+.carousel-1{
+    width: 100%;
+    height:100vh;
+    background: url(Img/1.jpg) no-repeat;
+    background-size: cover;
+}
+.Naim{
+    margin-top: 150px;
+}
+.card-title h1{
+    font-size: 35px;
+}
+.name-address i{
+    font-size: 20px;
+}
+.all_icons i:hover{
+    color:red;
+    font-size: 25px;
+}
+.map{
+    width: 100%;
+    height: 300px;
+}
